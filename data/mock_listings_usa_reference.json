@@ -1,0 +1,4762 @@
+[
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-001",
+    "hpId"             : "hp_usa_001",
+    "fullAddress"      : "123 Oak Street, San Francisco, CA, 94102",
+    "streetAddress"    : "123 Oak Street",
+    "city"             : "San Francisco",
+    "state"            : "CA",
+    "zipCode"          : "94102",
+    "propertyType"     : "House",
+    "propertySubType"  : "Single Family Home",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2500,
+    "lotSize"          : 8000,
+    "location"         : {"lat": 37.7749, "lng": -122.4194},
+    "salePrice"        : 1250000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-001-photo-0",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-001-photo-1",
+        "housie_id"         : "listing-usa-001",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-002",
+    "hpId"             : "hp_usa_002",
+    "fullAddress"      : "456 Broadway Avenue, New York, NY, 10001",
+    "streetAddress"    : "456 Broadway Avenue",
+    "city"             : "New York",
+    "state"            : "NY",
+    "zipCode"          : "10001",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 40.7128, "lng": -74.006},
+    "salePrice"        : 850000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-002-photo-0",
+        "housie_id"         : "listing-usa-002",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-003",
+    "hpId"             : "hp_usa_003",
+    "fullAddress"      : "789 Sunset Boulevard, Los Angeles, CA, 90001",
+    "streetAddress"    : "789 Sunset Boulevard",
+    "city"             : "Los Angeles",
+    "state"            : "CA",
+    "zipCode"          : "90001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Victorian",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3200,
+    "lotSize"          : 12000,
+    "location"         : {"lat": 34.0522, "lng": -118.2437},
+    "salePrice"        : 1500000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-003-photo-0",
+        "housie_id"         : "listing-usa-003",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 1,
+    "listingId"        : "listing-usa-004",
+    "hpId"             : "hp_usa_004",
+    "fullAddress"      : "321 Michigan Avenue, Chicago, IL, 60601",
+    "streetAddress"    : "321 Michigan Avenue",
+    "city"             : "Chicago",
+    "state"            : "IL",
+    "zipCode"          : "60601",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Studio",
+    "beds"             : 1,
+    "baths"            : 1,
+    "livingArea"       : 800,
+    "lotSize"          : 0,
+    "location"         : {"lat": 41.8781, "lng": -87.6298},
+    "salePrice"        : 400000,
+    "listingStatus"    : "rent",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-004-photo-0",
+        "housie_id"         : "listing-usa-004",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 5,
+    "listingId"        : "listing-usa-005",
+    "hpId"             : "hp_usa_005",
+    "fullAddress"      : "654 Park Lane, Houston, TX, 77001",
+    "streetAddress"    : "654 Park Lane",
+    "city"             : "Houston",
+    "state"            : "TX",
+    "zipCode"          : "77001",
+    "propertyType"     : "House",
+    "propertySubType"  : "Modern Contemporary",
+    "beds"             : 5,
+    "baths"            : 4,
+    "livingArea"       : 4500,
+    "lotSize"          : 15000,
+    "location"         : {"lat": 29.7604, "lng": -95.3698},
+    "salePrice"        : 2000000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-005-photo-0",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      },
+      {
+        "photo_id"          : "listing-usa-005-photo-1",
+        "housie_id"         : "listing-usa-005",
+        "original_photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-006",
+    "hpId"             : "hp_usa_006",
+    "fullAddress"      : "987 Market Street, San Diego, CA, 92101",
+    "streetAddress"    : "987 Market Street",
+    "city"             : "San Diego",
+    "state"            : "CA",
+    "zipCode"          : "92101",
+    "propertyType"     : "Townhouse",
+    "propertySubType"  : "Row House",
+    "beds"             : 3,
+    "baths"            : 2.5,
+    "livingArea"       : 2200,
+    "lotSize"          : 5000,
+    "location"         : {"lat": 32.7157, "lng": -117.1611},
+    "salePrice"        : 950000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-006-photo-0",
+        "housie_id"         : "listing-usa-006",
+        "original_photo_url": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-007",
+    "hpId"             : "hp_usa_007",
+    "fullAddress"      : "555 Spring Street, Miami, FL, 33101",
+    "streetAddress"    : "555 Spring Street",
+    "city"             : "Miami",
+    "state"            : "FL",
+    "zipCode"          : "33101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Luxury Condo",
+    "beds"             : 2,
+    "baths"            : 2,
+    "livingArea"       : 1600,
+    "lotSize"          : 0,
+    "location"         : {"lat": 25.7617, "lng": -80.1918},
+    "salePrice"        : 650000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-007-photo-0",
+        "housie_id"         : "listing-usa-007",
+        "original_photo_url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 3,
+    "listingId"        : "listing-usa-008",
+    "hpId"             : "hp_usa_008",
+    "fullAddress"      : "222 Elm Street, Seattle, WA, 98101",
+    "streetAddress"    : "222 Elm Street",
+    "city"             : "Seattle",
+    "state"            : "WA",
+    "zipCode"          : "98101",
+    "propertyType"     : "House",
+    "propertySubType"  : "Craftsman",
+    "beds"             : 3,
+    "baths"            : 2,
+    "livingArea"       : 2100,
+    "lotSize"          : 7000,
+    "location"         : {"lat": 47.6062, "lng": -122.3321},
+    "salePrice"        : 1100000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-008-photo-0",
+        "housie_id"         : "listing-usa-008",
+        "original_photo_url": "https://images.unsplash.com/photo-1570129477492-45ac003ed2fe?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 2,
+    "listingId"        : "listing-usa-009",
+    "hpId"             : "hp_usa_009",
+    "fullAddress"      : "888 Cherry Lane, Boston, MA, 02101",
+    "streetAddress"    : "888 Cherry Lane",
+    "city"             : "Boston",
+    "state"            : "MA",
+    "zipCode"          : "02101",
+    "propertyType"     : "Apartment",
+    "propertySubType"  : "Loft",
+    "beds"             : 2,
+    "baths"            : 1.5,
+    "livingArea"       : 1400,
+    "lotSize"          : 0,
+    "location"         : {"lat": 42.3601, "lng": -71.0589},
+    "salePrice"        : 700000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-009-photo-0",
+        "housie_id"         : "listing-usa-009",
+        "original_photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop"
+      }
+    ]
+  },
+  {
+    "bedrooms"         : 4,
+    "listingId"        : "listing-usa-010",
+    "hpId"             : "hp_usa_010",
+    "fullAddress"      : "333 Pine Road, Austin, TX, 78701",
+    "streetAddress"    : "333 Pine Road",
+    "city"             : "Austin",
+    "state"            : "TX",
+    "zipCode"          : "78701",
+    "propertyType"     : "House",
+    "propertySubType"  : "Mediterranean",
+    "beds"             : 4,
+    "baths"            : 3,
+    "livingArea"       : 3000,
+    "lotSize"          : 10000,
+    "location"         : {"lat": 30.2672, "lng": -97.7431},
+    "salePrice"        : 1350000,
+    "listingStatus"    : "sale",
+    "listingPreference": 1,
+    "photos"           : [
+      {
+        "photo_id"          : "listing-usa-010-photo-0",
+        "housie_id"         : "listing-usa-010",
+        "original_photo_url": "https://images.unsplash.com/photo-1600121848334-c51eacd60769?w=800&h=600&fit=crop"
+      }
+    ]
+  }
+]
