@@ -2,6 +2,7 @@ import express from "express";
 import cors from "cors";
 
 import listingRoutes from "./routes/listingRoutes.js";
+import saveSearchRoutes from "./routes/saveSearch.js";
 const app = express();
 app.use(cors());
 app.use(express.json());
@@ -12,6 +13,7 @@ app.get("/api", (req, res) => {
 });
 
 app.use("/api", listingRoutes);
+app.use("/api", saveSearchRoutes);
 
 const PORT = 8002;
 app.listen(PORT, () => {
